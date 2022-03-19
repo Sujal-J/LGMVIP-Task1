@@ -1,2 +1,2 @@
-# LGMVIP-Task1
-This repository is for task-1 of LGMVIP-WebDev March Internship.
+# LGMVIP-WebDev_Task1
+Developed using HTML, CSS and JavaScript.
